@@ -1,0 +1,22 @@
+{
+  "contacts": [
+    {
+      "name": "Адилет",
+      "surname": "Бердибековe",
+      "phone": "123123123 nbn",
+      "id": 2
+    },
+    {
+      "name": "qwerrt",
+      "surname": "asdfg",
+      "phone": "123456",
+      "id": 3
+    },
+    {
+      "name": "Adilet123",
+      "surname": "Berdibekov123",
+      "phone": "123123123",
+      "id": 4
+    }
+  ]
+}
